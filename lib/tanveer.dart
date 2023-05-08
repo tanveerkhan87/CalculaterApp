@@ -17,6 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
 
         primarySwatch: Colors.blue,
+        // I am tanveer khan
       ),
       home: const HomeScreen(),
     );
